@@ -40,7 +40,7 @@ img {
   opacity: 0.8;
   border-radius: 4px;
 }
-.btn:hover {
+.btn:cover {
   opacity: 1;
 }
 .fa {
@@ -55,6 +55,9 @@ img {
 .signup {
   background-color: #239b76;
 }
+.whatsup {
+  background-color: green;
+  }
 .facebook {
   background-color: #3b5998;
   }
@@ -82,15 +85,13 @@ header-logo {
 }
 .footer-list {
   float:right;
+  li:number;
 }
 .footer-list li {
   padding-bottom:20px;
 }
 .main {
   padding:100px 80px;
-}
-.copy-container h2 {
-  font-size:100px;
 }
 .copy-container span {
   color:#ff4a4a;
