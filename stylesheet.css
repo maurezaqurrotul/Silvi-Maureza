@@ -10,7 +10,7 @@ h1 {
 }
 h2 {
   color:black;
-  font-size:50px;
+  font-size:15px;
   height:50px;
   width:80px;
 }
@@ -35,12 +35,12 @@ img {
 }
 .btn {
   padding: 12px 24px;
-  color: white;
+  color: black;
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
 }
-.btn:cover {
+.btn:hover {
   opacity: 1;
 }
 .fa {
@@ -138,7 +138,9 @@ header-logo {
   letter-spacing:5px;
   margin-bottom:10px;
 }
-  .main p {
+.main p {
     opacity:0.7;
     margin-bottom:3px;
-  }
+}
+
+
