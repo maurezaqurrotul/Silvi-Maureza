@@ -1,1 +1,142 @@
-hh
+
+h1 {
+  color:black;
+  font-size:30px;
+  height:80px;
+  width:200px;
+  font-family:serif;
+}
+p {
+  color:black;
+  font-size:20px;
+  height:50px;
+  width:80px;
+  float:left;
+}
+img {
+  height:120px;
+  width:180px;
+}
+li {
+ color:#444;
+ float:left;
+ padding:20px
+}
+header-logo {
+ float:left;
+ front-size:25px;
+}
+h3 {
+  color:black;
+  font-size:50px;
+  height:50px;
+  width:80px;
+}
+.selected {
+  color:red;
+}
+.footer {
+  color:#fff;
+  background-color:#2f5167;
+  height:120px;
+  padding:40px;
+}
+.footer-logo {
+  front-size:32px;
+  float:left;
+}
+.footer-list {
+  float:right;
+}
+.footer-list li {
+  padding-bottom:20px;
+}
+.main {
+  padding:100px 80px;
+}
+.copy-container h2 {
+  font-size:100px;
+}
+.copy-container span {
+  color:#ff4a4a;
+}
+.contents {
+  height:500px;
+  margin-top:100px;
+}
+.section-title {
+  border-bottom:2px solid #dee7ec;
+  font-size:28px;
+  padding-bottom:15px;
+  margin-bottom:50px;
+}
+.contents-item {
+  float:left;
+  margin-right:40px
+}
+.contents-item p {
+  font-size:24;
+  margin-bottom:30px;
+}
+.footer {
+  background-color:#ddd
+  height:270px;
+}
+.container {
+  width:1170px;
+  padding-left:15px;
+  padding-right:15px;
+  margin-left:auto;
+  margin-right:auto;
+}
+.main {
+  padding:100px 0 80px 0;
+  background-image:url("https://prog-8.com/images/html/advanced/top_en.png");
+  background-size:cover;
+  color:white;
+  tetx-align:center;
+}
+.main h1 {
+  opacity:0.7;
+  font-size:45px;
+  letter-spacing:5px;
+  margin-bottom:10px;
+}
+.main h1 {
+    opacity:0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+  }
+  .main p {
+    opacity:0.7;
+    margin-bottom:3px;
+  }
+  .btn {
+    padding: 12px 24px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
+  }
+  .btn:hover {
+    opacity: 1;
+  }
+  .fa {
+    margin-right: 5px;
+  }
+  .btn-wrapper {
+    margin: 20px 0;
+  }
+  .btn-wrapper p {
+    margin: 10px 0;
+  }
+  .signup {
+    background-color: #239b76;
+  }
+  .facebook {
+    background-color: #3b5998;
+  }
+  .twitter {
+    background-color: #55acee;
+  }
