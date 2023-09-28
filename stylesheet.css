@@ -1,146 +1,80 @@
-.selected {
-  color:white;
+.footer{
+    color: rgb(215, 245, 207);
+    background-color: rgb(124, 88, 134);
+    height: 10px;
+    padding-top: 5px;
+    padding-bottom: 30px ;
+    padding-left: 5px;
 }
-h1 {
-  color:black;
-  font-size:30px;
-  height:80px;
-  width:200px;
-  font-family:serif;
+marquee{
+    color: #c93189;
 }
-h2 {
-  color:black;
-  font-size:15px;
-  height:50px;
-  width:80px;
-}
-p {
-  color:black;
-  font-size:10px;
-  height:50px;
-  width:80px;
-  float:left;
-}
-h5 {
-  color:red;
-h6 {
-  color:black;
-  font-size:50px;
-  height:50px;
-  width:80px;
-}
-img {
-  height:120px;
-  width:180px;
+img{
+    height:250px;
+    width:320px;
 }
 .btn {
-  padding: 12px 24px;
-  color: black;
-  display: inline-block;
-  opacity: 0.8;
-  border-radius: 4px;
+    padding: 6px 12px;
+    color: white;
+    display: inline-block;
+    opacity: 0.8;
+    border-radius: 4px;
 }
 .btn:hover {
-  opacity: 1;
+    opacity: 1;
 }
 .fa {
-  margin-right: 5px;
+    margin-right: 5px;
 }
 .btn-wrapper {
-  margin: 20px 0;
+    margin: 20px 0;
 }
 .btn-wrapper p {
-  margin: 10px 0;
+    margin: 10px 0;
 }
 .signup {
-  background-color: #239b76;
+    background-color: #168161;
 }
-.whatsup {
-  background-color: green;
-  }
 .facebook {
-  background-color: #3b5998;
-  }
+    background-color: #27478d;
+}
 .twitter {
-  background-color: #55acee;
+    background-color: #45a7f3;
 }
-li {
- color:#444;
- float:left;
- padding:20px
+h4 {
+    color: red;
 }
-header-logo {
- float:left;
- front-size:25px;
+.contents-item p{
+    margin-right: 20px;
+    color: blue;
 }
-.footer {
-  color:#fff;
-  background-color:#2f5167;
-  height:120px;
-  padding:40px;
+.contents-item img{
+    height:180px;
+    width:160px;
 }
-.footer-logo {
-  front-size:32px;
-  float:left;
-}
-.footer-list {
-  float:right;
-  li:number;
-}
-.footer-list li {
-  padding-bottom:20px;
-}
-.main {
-  padding:100px 80px;
-}
-.copy-container span {
-  color:#ff4a4a;
-}
-.contents {
-  height:500px;
-  margin-top:100px;
-}
-.section-title {
-  border-bottom:2px solid #dee7ec;
-  font-size:28px;
-  padding-bottom:15px;
-  margin-bottom:50px;
-}
-.contents-item {
-  float:left;
-  margin-right:40px
-}
-.contents-item p {
-  font-size:24;
-  margin-bottom:30px;
-}
-.footer {
-  background-color:#ddd
-  height:270px;
-}
-.container {
-  width:1170px;
-  padding-left:15px;
-  padding-right:15px;
-  margin-left:auto;
-  margin-right:auto;
-}
-.main {
-  padding:100px 0 80px 0;
-  background-image:url("https://prog-8.com/images/html/advanced/top_en.png");
-  background-size:cover;
-  color:white;
-  tetx-align:center;
-}
-.main h1 {
-  opacity:0.7;
-  font-size:45px;
-  letter-spacing:5px;
-  margin-bottom:10px;
-}
-.main p {
-    opacity:0.7;
-    margin-bottom:3px;
+.footer2{
+    background-color: #4d4242;
+    height: 150px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+} 
+.footer2 h2{
+    font-style: inherit;
+    font-size: 50px;
+    color:rgb(245, 245, 172);
 }
 
+  
+  
+
+
+  
+
+ 
+ 
+
+
+   
 
