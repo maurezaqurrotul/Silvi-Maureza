@@ -13,10 +13,10 @@ h1{
     font-style: inherit;
 }
 h2 {
-    font-style: arial;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h5 {
-    letter-spacing: -1px;
+    letter-spacing: -2px;
     font-style: oblique;
 }
 img{
