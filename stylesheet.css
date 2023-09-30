@@ -9,6 +9,16 @@
 marquee{
     color: #c93189;
 }
+h1{
+    font-style: inherit;
+}
+h2 {
+    font-style: arial;
+}
+h3 {
+    letter-spacing: -1px;
+    font-style: oblique;
+}
 img{
     height:250px;
     width:320px;
