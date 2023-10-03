@@ -7,8 +7,9 @@
     padding-left: 5px;
 }
 .footer3 {
-  padding:100px 0 80px 0;
   background-image:url("https://previews.123rf.com/images/yupiramos/yupiramos1811/yupiramos181104651/111426843-loja-de-carrinho-de-compras-on-line-ao-ar-livre-park-woman-walking-carry-oferece-ilustra%C3%A7%C3%A3o.jpg");
+  height: 10px; 
+  widht: 50px;   
 }
 marquee{
     color: #c93189;
